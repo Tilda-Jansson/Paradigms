@@ -7,8 +7,8 @@ Kattis problems solved using different programming paradigms:
 - Logic programming, in the form of Prolog
 
 
-* (Bus Numbers)[https://kth.kattis.com/problems/busnumbers]: Java and Haskell
+* [Bus Numbers](https://kth.kattis.com/problems/busnumbers): Java and Haskell
 
-* (Calculating Dart Scores)[https://kth.kattis.com/problems/calculatingdartscores]: Java and Prolog
+* [Calculating Dart Scores](https://kth.kattis.com/problems/calculatingdartscores): Java and Prolog
 
-* (Peragrams)[https://kth.kattis.com/problems/peragrams]: Haskell and Prolog
+* [Peragrams](https://kth.kattis.com/problems/peragrams): Haskell and Prolog
